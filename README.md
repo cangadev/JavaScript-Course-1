@@ -5,40 +5,40 @@
 
 Javascript is a dynamic “Long Typed” language, aimed at making web platforms functional and interactive.
 
-Learning obtained:
+Learning obtained: <br>
 1- Variables; <br>
-2- Mathematical operations;
-3- Functions;
-4- Conditionals;
-5- Logical operators;
-6- Repetition structure;
-7- Interval, timeout;
-8- Events;
-9- Working with Dom;
-10- Add_Style;
-11- CRUD “Todo list”;
+2- Mathematical operations; <br>
+3- Functions; <br>
+4- Conditionals; <br>
+5- Logical operators; <br>
+6- Repetition structure; <br>
+7- Interval, timeout; <br>
+8- Events;<br>
+9- Working with Dom; <br>
+10- Add_Style; <br>
+11- CRUD “Todo list”; <br>
 
-Did you like the content?
-Leave a star in this repository and follow me.
-Thanks!
+Did you like the content? <br>
+Leave a star in this repository and follow me. <br>
+Thanks! <br>
 
 ### Javascript é uma linguagem muito importante na área de tecnologia, sinto-me orgulhoso por aprender essa incrível linguagem.
 
 Javascript é linguagem dinâmica “Fracamente tipado”, com objectivo de tornar plataformas web funcional e interativo.
 
-Aprendizado obtido:
-1- Variáveis 
-2- Operações matemáticas 
-3- Funções 
-4- Condicionais
-5- Operadores lógicos
-6- Estrutura de repetição
-7- Intervalo, timeout
-8- Eventos
-9- Trabalhando com a Dom
-10- Add_Style
-11- CRUD “Todo list”
+Aprendizado obtido: <br>
+1- Variáveis  <br>
+2- Operações matemáticas  <br>
+3- Funções <br>
+4- Condicionais <br>
+5- Operadores lógicos <br>
+6- Estrutura de repetição <br>
+7- Intervalo, timeout <br>
+8- Eventos <br>
+9- Trabalhando com a Dom <br>
+10- Add_Style <br>
+11- CRUD “Todo list” <br>
 
-Gostou do conteúdo? 
-Deixa uma estrela nesse repositório e me segue.
-Obrigado!
+Gostou do conteúdo? <br>
+Deixa uma estrela nesse repositório e me segue. <br>
+Obrigado! <br>
