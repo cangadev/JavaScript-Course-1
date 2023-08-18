@@ -6,17 +6,21 @@
 Javascript is a dynamic “Long Typed” language, aimed at making web platforms functional and interactive.
 
 Learning obtained:
-1- Variables
-2- Mathematical operations
-3- Functions
-4- Conditionals
-5- Logical operators
-6- Repetition structure
-7- Interval, timeout
-8- Events
-9- Working with Dom
-10- Add_Style
-11- CRUD “Todo list”
+1- Variables; <br>
+2- Mathematical operations;
+3- Functions;
+4- Conditionals;
+5- Logical operators;
+6- Repetition structure;
+7- Interval, timeout;
+8- Events;
+9- Working with Dom;
+10- Add_Style;
+11- CRUD “Todo list”;
+
+Did you like the content?
+Leave a star in this repository and follow me.
+Thanks!
 
 ### Javascript é uma linguagem muito importante na área de tecnologia, sinto-me orgulhoso por aprender essa incrível linguagem.
 
