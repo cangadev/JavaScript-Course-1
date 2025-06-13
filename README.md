@@ -1,6 +1,5 @@
 # JavaScript-Course-1
 
-
 #### Javascript is a very important language in the technology field, I feel proud to learn this amazing language. <br/>
 
 Javascript is a dynamic “Long Typed” language, aimed at making web platforms functional and interactive.
